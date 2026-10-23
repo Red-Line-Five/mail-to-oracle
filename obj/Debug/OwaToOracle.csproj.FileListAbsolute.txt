@@ -1,0 +1,7 @@
+C:\Users\boss\Documents\GitHub\mail-to-oracle\bin\Debug\OwaToOracle.exe.config
+C:\Users\boss\Documents\GitHub\mail-to-oracle\bin\Debug\OwaToOracle.exe
+C:\Users\boss\Documents\GitHub\mail-to-oracle\bin\Debug\OwaToOracle.pdb
+C:\Users\boss\Documents\GitHub\mail-to-oracle\obj\Debug\OwaToOracle.csproj.AssemblyReference.cache
+C:\Users\boss\Documents\GitHub\mail-to-oracle\obj\Debug\OwaToOracle.csproj.CoreCompileInputs.cache
+C:\Users\boss\Documents\GitHub\mail-to-oracle\obj\Debug\OwaToOracle.exe
+C:\Users\boss\Documents\GitHub\mail-to-oracle\obj\Debug\OwaToOracle.pdb
