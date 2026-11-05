@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+packages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local settings (saved by the Settings form)
+settings.json
+config.ini
