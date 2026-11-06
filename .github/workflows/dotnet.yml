@@ -22,4 +22,4 @@ jobs:
         run: nuget restore OwaToOracle.csproj -PackagesDirectory packages
 
       - name: Build
-        run: msbuild OwaToOracle.csproj /p:Configuration=Release
+        run: msbuild OwaToOracle.csproj /p:Configuration=Release /p:TargetFrameworkVersion=v4.8
